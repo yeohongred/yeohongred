@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @yeohongred
-- 👀 I’m interested in automation and other things that improve QoL
-- 🌱 I’m currently learning Python, JavaScript, TypeScript, CSS
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm from Singapore
+```
+git commit -m “Make (my) life easier with code”
 
-<!---
-yeohongred/yeohongred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-m “Hi! My name is Yeo Hong and I like making (my) life easier with code. As someone who is always looking for something new to do and hates monotony, I thrive on automating repetitive tasks to reduce friction and streamline workflows in both personal and professional settings. Driven by this mindset, I am constantly learning various languages and frameworks to optimise productivity, convenience, and overall quality of life. Being somewhat of a perfectionist, my tendency to focus heavily on the smallest of details is what motivates me to take action and actualise the changes I wish to see. I am excited to keep leveraging technology to create more efficient solutions and contribute to innovative, impactful projects!”
+```
